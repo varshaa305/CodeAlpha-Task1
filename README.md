@@ -5,7 +5,7 @@
 - 𝗗𝗼𝗺𝗮𝗶𝗻: Artificial Intelligence
 - 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: 1st March 2025 to 30th March 2025
 - TASK 1
-- Language Translation Tool
+- Language Translation Tool:
 Develop a simple language translation tool that
 translates text from one language to another. Use
 machine translation techniques and pre-trained
